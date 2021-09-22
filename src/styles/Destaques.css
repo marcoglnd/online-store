@@ -1,0 +1,123 @@
+.destaques {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  padding: 20px;
+  width: 100%;
+}
+
+.destaques h2 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 35px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.carousel {
+  display: block;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 20px;
+  width: 70%;
+}
+
+.slick-arrow,
+.slick-next {
+  filter: invert(70%);
+}
+
+.card {
+  border: 1px solid #eeeeee;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 400px;
+  padding: 10px;
+  width: 235px;
+}
+
+.card span {
+  font-family: "Nunito", sans-serif;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.card-tags {
+  display: flex;
+  justify-content: space-between;
+}
+
+.heart {
+  align-self: flex-end;
+}
+
+.card-img {
+  height: 282px;
+  width: 212px;
+}
+
+.tag {
+  align-items: center;
+  display: inline-flex;
+  justify-content: stretch;
+  height: 20px;
+  padding: 5px;
+}
+
+.tag span {
+  display: inline-block;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 8px;
+  line-height: 11px;
+}
+
+.description {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.price-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.price {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 19px;
+}
+
+.buy-btn {
+  align-items: center;
+  background: #824d3e;
+  margin-top: auto;
+  display: flex;
+  height: 42px;
+  justify-content: center;
+  opacity: 1;
+  width: 205px;
+}
+
+.buy-btn:hover {
+  opacity: 0.8;
+}
+
+.buy-btn span {
+  color: white;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: 0.1em;
+  line-height: 17px;
+  text-transform: uppercase;
+}
