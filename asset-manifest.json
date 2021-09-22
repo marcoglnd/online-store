@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/online-store/static/css/main.fa97c7e4.chunk.css",
+    "main.js": "/online-store/static/js/main.7ea90c5e.chunk.js",
+    "main.js.map": "/online-store/static/js/main.7ea90c5e.chunk.js.map",
+    "runtime-main.js": "/online-store/static/js/runtime-main.f9b67675.js",
+    "runtime-main.js.map": "/online-store/static/js/runtime-main.f9b67675.js.map",
+    "static/css/2.58c21d03.chunk.css": "/online-store/static/css/2.58c21d03.chunk.css",
+    "static/js/2.580ea572.chunk.js": "/online-store/static/js/2.580ea572.chunk.js",
+    "static/js/2.580ea572.chunk.js.map": "/online-store/static/js/2.580ea572.chunk.js.map",
+    "index.html": "/online-store/index.html",
+    "static/css/2.58c21d03.chunk.css.map": "/online-store/static/css/2.58c21d03.chunk.css.map",
+    "static/css/main.fa97c7e4.chunk.css.map": "/online-store/static/css/main.fa97c7e4.chunk.css.map",
+    "static/js/2.580ea572.chunk.js.LICENSE.txt": "/online-store/static/js/2.580ea572.chunk.js.LICENSE.txt",
+    "static/media/carousel1.88e8a311.png": "/online-store/static/media/carousel1.88e8a311.png",
+    "static/media/carousel2.35885cba.png": "/online-store/static/media/carousel2.35885cba.png",
+    "static/media/carousel3.d05cab7c.png": "/online-store/static/media/carousel3.d05cab7c.png",
+    "static/media/Promo.css": "/online-store/static/media/promo2.69e1fa46.png",
+    "static/media/slick-theme.css": "/online-store/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9b67675.js",
+    "static/css/2.58c21d03.chunk.css",
+    "static/js/2.580ea572.chunk.js",
+    "static/css/main.fa97c7e4.chunk.css",
+    "static/js/main.7ea90c5e.chunk.js"
+  ]
+}
